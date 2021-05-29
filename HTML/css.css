@@ -1,0 +1,23 @@
+body{
+	background: #fff5fd;
+}
+header{
+	background: #005a8d;
+}
+nav{
+	color: #ff96ad;
+	font-family: fantasy;
+}
+h1{
+	color: #ff96ad;
+}
+summary{
+	font-style: normal;
+}
+details{
+	font-style: italic;
+}
+h3{
+	color: #022e57;
+	background-color: #ff96ad;
+}
